@@ -1,0 +1,26 @@
+.card {
+    height: 250px;
+    width: 450px;
+    border-radius: 10px;
+    border: solid 1px grey;
+    position: relative;
+    background-color: gold;
+    margin: auto;
+}
+
+.cardImage {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 380px;
+    height: 230px;
+}
+
+.personName {
+    position: absolute;
+    bottom: 0px;
+    right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+}
